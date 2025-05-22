@@ -9,7 +9,6 @@ FarmIQ is an interactive AI-powered crop analytics dashboard that enables users 
 - [💡 Solution Overview](#-solution-overview)
 - [🧠 Machine Learning Models](#-machine-learning-models)
 - [📊 Exploratory Data Analysis](#-exploratory-data-analysis)
-- [🚀 Installation Guide](#-installation-guide)
 
 
 ## 🔍 Problem Statement
